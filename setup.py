@@ -12,7 +12,7 @@ setuptools.setup(
     name='databasepy',
     version='0.0.2',
     author='Kingsley Nweye',
-    author_email='nweye@utexas.edu',
+    author_email='etonwana@yahoo.com',
     description='',
     long_description=long_description,
     long_description_content_type='text/markdown',
