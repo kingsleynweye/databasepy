@@ -10,13 +10,13 @@ with open('requirements.txt', 'r') as fh:
 
 setuptools.setup(
     name='databasepy',
-    version='0.0.2',
+    version='0.0.1',
     author='Kingsley Nweye',
     author_email='etonwana@yahoo.com',
     description='',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/kingsleynweye/databasepy',
     packages=setuptools.find_packages(),
     include_package_data=True,
     install_requires=requirements,
